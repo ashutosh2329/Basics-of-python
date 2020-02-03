@@ -1,2 +1,2 @@
-# Basics-of-python
-Basics application of pyython
+# Install python 3
+Install pycharm
